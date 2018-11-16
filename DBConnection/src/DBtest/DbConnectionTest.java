@@ -1,3 +1,4 @@
+//DB 연결하는 사이트 보고 연습한 코드 
 package DBtest;
 
 
